@@ -1,26 +1,26 @@
 # 👋 Hi, I’m Ehteshamul Haque  
 
-💻 **Frontend dev & Automation Engineer** | MSc CS @ SFBU | AI/ML Enthusiast | Full-Stack Developer  
+💻 **Frontend & Automation Engineer** | MSc CS @ SFBU | AI/ML Enthusiast | Full-Stack Developer  
 
 ---
 
 ### 👨‍💻 Experience & Projects
-**Frontend & Automation Engineer** — [Permalink Support Services](https://www.permalink.com.au) (2025–Present)  
+**Frontend & Automation Engineer** — [Permalink Support Services](https://www.permalink.com.au) (Remote, Victoria, Australia) — *2025–Present*  
 - Built scalable real estate web apps with **React, Next.js, Tailwind CSS**.  
 - Improved SEO & performance by 40% with **SSR architecture & API routes**.  
 - Automated HR workflows using **Zapier & n8n** (PandaDoc, Calendly, Gmail, Jotform, Google Drive).  
 
-**Web Developer** — [Dotphase](https://dotphase.com) (2023–2025)  
+**Web Developer** — [Dotphase](https://dotphase.com) (Remote, Aurora, Illinois, USA) — *2023–2025*  
 - Developed responsive web apps with **React, Next.js, PHP, MySQL, WordPress**.  
 - Enhanced performance (35%) and scalability by improving backend/frontend integration.  
 
-**Software Engineer** — Leads Corporation (2022–2023)  
+**Software Engineer** — Leads Corporation (Dhaka, Bangladesh) — *2022–2023*  
 - Migrated enterprise data from **Microsoft SQL Server → Oracle** using **Oracle SQL Developer Migration Tool**.  
 - Applied **migration rules**: schema conversion, data type mapping, constraint validation, null/default handling, indexing.  
 - Automated migration with **Java multithreading**.  
 - Built secure UIs with **ADF & WebLogic**.  
 
-**Teaching Assistant** — San Francisco Bay University (2023–2024)  
+**Teaching Assistant** — San Francisco Bay University (Fremont, California, USA) — *2023–2024*  
 - Mentored students in **AI, ML, Cloud Computing**.  
 - Guided lab projects in **Python, TensorFlow, AWS, Azure**.  
 
@@ -53,8 +53,8 @@
 ---
 
 ### 🎓 Education
-- **MSc Computer Science** — San Francisco Bay University, USA (2023–2024) | CGPA: 3.78/4.00  
-- **BSc Computer Science** — BRAC University, Dhaka (2018–2022) | CGPA: 3.63/4.00  
+- **MSc Computer Science** — San Francisco Bay University, Fremont, California, USA (2023–2024) | CGPA: 3.78/4.00  
+- **BSc Computer Science** — BRAC University, Dhaka, Bangladesh (2018–2022) | CGPA: 3.63/4.00  
 
 ---
 
@@ -67,16 +67,16 @@
 
 ### 📖 Research
 - **Kidney Tumor Segmentation (IEEE, 2022)**  
-  *Deep learning with Python, TensorFlow/Keras on CT images.*  
+  *Deep learning with **Python, TensorFlow/Keras** on CT images.*  
 
 - **IoT Security in Cloud (ISSN, 2023)**  
-  *Security analysis with Python for IoT + Cloud infrastructure.*  
+  *Security analysis using **Python** for IoT + Cloud infrastructure.*  
 
 - **Skin Cancer Detection (ISSN, 2024)**  
-  *CNN with InceptionNet using Python, TensorFlow, Keras.*  
+  *CNN with **InceptionNet, Python, TensorFlow, Keras**.*  
 
 - **Breast Cancer Classification (ISSN, 2024)**  
-  *ML using XGBoost, Python, pandas, NumPy.*  
+  *ML with **XGBoost, Python, pandas, NumPy**.*  
 
 ---
 
