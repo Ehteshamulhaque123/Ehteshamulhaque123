@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ehteshamul Haque  
 
-💻 **Frontend & Automation Engineer** | MSc CS @ SFBU | AI/ML Enthusiast | Full-Stack Developer  
+💻 **Frontend dev & Automation Engineer** | MSc CS @ SFBU | AI/ML Enthusiast | Full-Stack Developer  
 
 ---
 
