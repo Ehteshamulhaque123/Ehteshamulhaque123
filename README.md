@@ -90,6 +90,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehtesham-haque-43205b203)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Ehteshamulhaque123)  
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ehteshamul.haque1998@gmail.com)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=gGbwX38AAAAJ&hl=en)  
 
 ---
 ⭐️ *Always exploring AI, ML, and scalable web solutions.*
