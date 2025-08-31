@@ -59,7 +59,7 @@
 ---
 
 ### 🚀 Key Projects
-- 🧑‍💼 **Employee Management System** — Java + Oracle DB desktop app (CRUD, JDBC, Swing, exception handling).  
+- 🧑‍💼 **Employee Management System** — Java + Oracle DB desktop app (CRUD, JDBC, Swing, springboot exception handling).  
 - 🍴 **Restaurant Chatbot Website** — Django + NLP chatbot for menu queries, order placement, and reservations.  
 - 🛠 **QA Automation & Project Management** — Selenium test scripts, Azure DevOps pipelines, JIRA workflows.  
 
