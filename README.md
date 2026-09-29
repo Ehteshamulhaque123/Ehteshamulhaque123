@@ -5,10 +5,12 @@
 ---
 
 ### 👨‍💻 Experience & Projects
-**Frontend & Automation Engineer** — [Permalink Support Services](https://www.permalink.com.au) (Remote, Victoria, Australia) — *2025–Present*  
-- Built scalable real estate web apps with **React, Next.js, Tailwind CSS**.  
-- Improved SEO & performance by 40% with **SSR architecture & API routes**.  
-- Automated HR workflows using **Zapier & n8n** (PandaDoc, Calendly, Gmail, Jotform, Google Drive).  
+**Full Stack Developer & Automation Engineer** — [Permalink Support Services](https://www.permalink.com.au) (Remote, Victoria, Australia) — *Mar 2025–Present*  
+- Built full-stack apps with **React, Next.js, Django & PostgreSQL**.  
+- Designed **RESTful & service-to-service APIs** with auth, validation and error handling.  
+- Integrated a **RAG-based AI chatbot** with context-grounded LLM responses.  
+- Scaled the backend with **Redis, Celery, WebSockets, Docker & CI/CD**.  
+- Automated workflows with **Zapier** (PandaDoc, Calendly, Gmail, Jotform, Google Drive).
 
 **Web Developer** — [Dotphase](https://dotphase.com) (Remote, Aurora, Illinois, USA) — *2023–2025*  
 - Developed responsive web apps with **React, Next.js, PHP, MySQL, WordPress**.  
